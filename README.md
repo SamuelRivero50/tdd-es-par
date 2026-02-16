@@ -1,2 +1,4 @@
 # tdd-es-par
-Ejemplo TDD en Python: función es_par(n)
+## 4 casos de prueba logrados
+
+![alt text](image.png)
